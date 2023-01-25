@@ -14,3 +14,4 @@ else
     max = secondNumber;
     min = firstNumber;
 }
+Console.WriteLine("max = " + max + " и " + "min = " + min);
